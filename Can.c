@@ -1,7 +1,7 @@
 #include"Can.h"
 #include"UTILES.h"
 #include"CanIf_Cbk.h"
-#include "Det.h"
+#include "..\DET\Det.h"
 
 
 /*Necessary Global variables*/

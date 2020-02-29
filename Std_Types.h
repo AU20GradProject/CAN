@@ -1,5 +1,5 @@
-#ifndef STD_TYPES_H_ /*Guard for the Std_Types.h*/
-#define STD_TYPES_H_
+#ifndef STD_TYPES_H /*Guard for the Std_Types.h*/
+#define STD_TYPES_H
 
 #include "Platform_Types.h"
 #include "Compiler.h"
